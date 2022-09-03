@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/353.fb3d67a8.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,oDACV,C","sources":["features/blog/index.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Blog() {\r\n    \r\n    return <>I am the Blog page</>\r\n}\r\n\r\nexport default Blog;"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/610.2eeb06f6.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,qDACV,C","sources":["features/admin/index.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Admin() {\r\n\r\n    return <>I am the Admin page</>\r\n}\r\n\r\nexport default Admin;"],"names":[],"sourceRoot":""}

@@ -1,16 +1,39 @@
 {
   "files": {
     "main.css": "/recruiter/static/css/main.073c9b0a.css",
-    "main.js": "/recruiter/static/js/main.1b71e988.js",
-    "static/js/787.516c5c69.chunk.js": "/recruiter/static/js/787.516c5c69.chunk.js",
-    "static/media/logo.svg": "/recruiter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/recruiter/static/js/main.dc41b27e.js",
+    "static/js/610.2eeb06f6.chunk.js": "/recruiter/static/js/610.2eeb06f6.chunk.js",
+    "static/js/560.acd2770f.chunk.js": "/recruiter/static/js/560.acd2770f.chunk.js",
+    "static/js/289.9e14c710.chunk.js": "/recruiter/static/js/289.9e14c710.chunk.js",
+    "static/js/353.fb3d67a8.chunk.js": "/recruiter/static/js/353.fb3d67a8.chunk.js",
+    "static/js/795.2e7dac93.chunk.js": "/recruiter/static/js/795.2e7dac93.chunk.js",
+    "static/js/349.989c2eb6.chunk.js": "/recruiter/static/js/349.989c2eb6.chunk.js",
+    "static/js/386.77d023e3.chunk.js": "/recruiter/static/js/386.77d023e3.chunk.js",
+    "static/js/749.17c85d02.chunk.js": "/recruiter/static/js/749.17c85d02.chunk.js",
+    "static/css/384.feb4ebcb.chunk.css": "/recruiter/static/css/384.feb4ebcb.chunk.css",
+    "static/js/384.4b146456.chunk.js": "/recruiter/static/js/384.4b146456.chunk.js",
+    "static/js/693.354f9534.chunk.js": "/recruiter/static/js/693.354f9534.chunk.js",
+    "static/js/8.38139298.chunk.js": "/recruiter/static/js/8.38139298.chunk.js",
+    "static/js/787.d3f42b42.chunk.js": "/recruiter/static/js/787.d3f42b42.chunk.js",
     "index.html": "/recruiter/index.html",
     "main.073c9b0a.css.map": "/recruiter/static/css/main.073c9b0a.css.map",
-    "main.1b71e988.js.map": "/recruiter/static/js/main.1b71e988.js.map",
-    "787.516c5c69.chunk.js.map": "/recruiter/static/js/787.516c5c69.chunk.js.map"
+    "main.dc41b27e.js.map": "/recruiter/static/js/main.dc41b27e.js.map",
+    "610.2eeb06f6.chunk.js.map": "/recruiter/static/js/610.2eeb06f6.chunk.js.map",
+    "560.acd2770f.chunk.js.map": "/recruiter/static/js/560.acd2770f.chunk.js.map",
+    "289.9e14c710.chunk.js.map": "/recruiter/static/js/289.9e14c710.chunk.js.map",
+    "353.fb3d67a8.chunk.js.map": "/recruiter/static/js/353.fb3d67a8.chunk.js.map",
+    "795.2e7dac93.chunk.js.map": "/recruiter/static/js/795.2e7dac93.chunk.js.map",
+    "349.989c2eb6.chunk.js.map": "/recruiter/static/js/349.989c2eb6.chunk.js.map",
+    "386.77d023e3.chunk.js.map": "/recruiter/static/js/386.77d023e3.chunk.js.map",
+    "749.17c85d02.chunk.js.map": "/recruiter/static/js/749.17c85d02.chunk.js.map",
+    "384.feb4ebcb.chunk.css.map": "/recruiter/static/css/384.feb4ebcb.chunk.css.map",
+    "384.4b146456.chunk.js.map": "/recruiter/static/js/384.4b146456.chunk.js.map",
+    "693.354f9534.chunk.js.map": "/recruiter/static/js/693.354f9534.chunk.js.map",
+    "8.38139298.chunk.js.map": "/recruiter/static/js/8.38139298.chunk.js.map",
+    "787.d3f42b42.chunk.js.map": "/recruiter/static/js/787.d3f42b42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1b71e988.js"
+    "static/js/main.dc41b27e.js"
   ]
 }

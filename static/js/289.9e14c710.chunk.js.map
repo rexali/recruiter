@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/289.9e14c710.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,uDACV,C","sources":["features/service/index.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Service() {\r\n    \r\n    return <>I am the Service page</>\r\n}\r\n\r\nexport default Service;"],"names":[],"sourceRoot":""}
