@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/11.32f2c75d.chunk.js","mappings":"kJAOA,UALA,WAEI,OAAO,sDACV,C","sources":["features/account/Signup.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Signup() {\r\n    \r\n    return <>I am the Signup page</>\r\n}\r\n\r\nexport default Signup;"],"names":[],"sourceRoot":""}
