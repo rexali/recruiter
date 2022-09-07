@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[906],{5906:function(e,c,t){t.r(c);var a=t(885),u=t(2791),n=t(184);function r(){var e=u.useState(""),c=(0,a.Z)(e,2),t=c[0],r=c[1];return u.useEffect((function(){r("Successfully changed")}),[]),(0,n.jsx)("div",{children:t})}c.default=(0,u.memo)(r)}}]);
+//# sourceMappingURL=906.3a847ac6.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/690.0461aaf4.chunk.js","mappings":"kJAOA,UALA,WAEI,OAAO,6DACV,C","sources":["features/blog/ReadPosts.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction ReadPostsPage() {\r\n    \r\n    return <>I am the ReadPostsPage page</>\r\n}\r\n\r\nexport default ReadPostsPage;"],"names":[],"sourceRoot":""}

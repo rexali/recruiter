@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[349],{2349:function(e,a,t){t.r(a);var r=t(2791),c=t(184);function n(){return(0,c.jsx)(c.Fragment,{children:"I am the About page"})}a.default=r.memo(n)}}]);
+//# sourceMappingURL=349.f8a96b1f.chunk.js.map

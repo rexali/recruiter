@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[610],{1610:function(e,a,t){t.r(a);t(2791);var r=t(184);a.default=function(){return(0,r.jsx)(r.Fragment,{children:"I am the Admin page"})}}}]);
-//# sourceMappingURL=610.2eeb06f6.chunk.js.map

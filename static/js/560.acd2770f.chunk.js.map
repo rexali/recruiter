@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/560.acd2770f.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,oDACV,C","sources":["features/hire/index.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Hire() {\r\n    \r\n    return <>I am the Hire page</>\r\n}\r\n\r\nexport default Hire;"],"names":[],"sourceRoot":""}

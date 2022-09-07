@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/760.9370fa20.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,8DACV,C","sources":["features/blog/CreatePost.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction CreatePostPage() {\r\n    \r\n    return <>I am the CreatePostPage page</>\r\n}\r\n\r\nexport default CreatePostPage;"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/721.a011901c.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,0DACV,C","sources":["features/blog/EditPost.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction UpdatePostPage() {\r\n    \r\n    return <>I am the UpdatePost page</>\r\n}\r\n\r\nexport default UpdatePostPage;"],"names":[],"sourceRoot":""}

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[560],{4560:function(e,a,r){r.r(a);r(2791);var t=r(184);a.default=function(){return(0,t.jsx)(t.Fragment,{children:"I am the Hire page"})}}}]);
-//# sourceMappingURL=560.acd2770f.chunk.js.map

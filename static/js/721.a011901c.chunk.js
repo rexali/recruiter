@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[721],{8721:function(e,a,t){t.r(a);t(2791);var r=t(184);a.default=function(){return(0,r.jsx)(r.Fragment,{children:"I am the UpdatePost page"})}}}]);
+//# sourceMappingURL=721.a011901c.chunk.js.map

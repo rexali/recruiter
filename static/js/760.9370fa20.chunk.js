@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[760],{3760:function(e,a,t){t.r(a);t(2791);var r=t(184);a.default=function(){return(0,r.jsx)(r.Fragment,{children:"I am the CreatePostPage page"})}}}]);
+//# sourceMappingURL=760.9370fa20.chunk.js.map

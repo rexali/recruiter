@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/259.ed97ab5a.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,2DACV,C","sources":["features/contact/Contacts.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Contact() {\r\n    \r\n    return <>I am the SendMessage page</>\r\n}\r\n\r\nexport default Contact;"],"names":[],"sourceRoot":""}

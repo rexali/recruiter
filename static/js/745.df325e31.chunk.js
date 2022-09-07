@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[745],{7745:function(e,a,t){t.r(a);t(2791);var r=t(6871),c=t(184);a.default=function(){var e=(0,r.UO)();return(0,c.jsxs)(c.Fragment,{children:["I am the SinglePostPage page ",e.id]})}}}]);
+//# sourceMappingURL=745.df325e31.chunk.js.map

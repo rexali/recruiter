@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[386],{386:function(e,a,t){t.r(a);t(2791);var c=t(184);a.default=function(){return(0,c.jsx)(c.Fragment,{children:"I am the Contact page"})}}}]);
-//# sourceMappingURL=386.77d023e3.chunk.js.map

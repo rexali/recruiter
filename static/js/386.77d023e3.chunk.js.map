@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/386.77d023e3.chunk.js","mappings":"kJAOA,UALA,WAEI,OAAO,uDACV,C","sources":["features/contact/index.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Contact() {\r\n    \r\n    return <>I am the Contact page</>\r\n}\r\n\r\nexport default Contact;"],"names":[],"sourceRoot":""}
