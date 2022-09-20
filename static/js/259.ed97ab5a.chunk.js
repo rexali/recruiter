@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[259],{4259:function(e,a,t){t.r(a);t(2791);var r=t(184);a.default=function(){return(0,r.jsx)(r.Fragment,{children:"I am the SendMessage page"})}}}]);
-//# sourceMappingURL=259.ed97ab5a.chunk.js.map
