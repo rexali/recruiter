@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/214.a2de0984.chunk.js","mappings":"mJAOA,UALA,WAEI,OAAO,yDACV,C","sources":["features/user/job/ViewJobs.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction ViewJobs() {\r\n\r\n    return <>I am the View jobs page</>\r\n}\r\n\r\nexport default ViewJobs;"],"names":[],"sourceRoot":""}

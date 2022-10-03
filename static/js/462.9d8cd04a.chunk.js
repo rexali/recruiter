@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[462],{462:function(e,a,r){r.r(a);r(2791);var t=r(6871),c=r(184);a.default=function(){var e=(0,t.UO)().id;return(0,c.jsxs)(c.Fragment,{children:["I am the View job page ",e," "]})}}}]);
-//# sourceMappingURL=462.9d8cd04a.chunk.js.map
