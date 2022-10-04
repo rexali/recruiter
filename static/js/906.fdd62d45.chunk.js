@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[906],{5906:function(e,c,t){t.r(c);var a=t(885),s=t(2791),u=t(184);function n(){var e=s.useState(""),c=(0,a.Z)(e,2),t=c[0],n=c[1];return s.useEffect((function(){n("Successfully changed")}),[]),(0,u.jsx)("div",{className:"text-center text-success",children:t})}c.default=(0,s.memo)(n)}}]);
+//# sourceMappingURL=906.fdd62d45.chunk.js.map
