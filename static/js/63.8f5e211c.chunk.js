@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcreate_reactapp=self.webpackChunkcreate_reactapp||[]).push([[63],{63:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});n(2791);var r=n(184);function a(){return(0,r.jsx)("div",{className:"d-flex justify-content-center align-items-center",style:{minHeight:"550px"},children:(0,r.jsx)("div",{className:"spinner-border",role:"status",id:"waiting"})})}}}]);
+//# sourceMappingURL=63.8f5e211c.chunk.js.map
